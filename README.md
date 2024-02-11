@@ -1,46 +1,59 @@
 ### ICBM Simulator
 
-Welcome to the ICBM Simulator repository! This project is a 2D simulation of the Minuteman 3 Intercontinental Ballistic Missile (ICBM) system developed using Unity and C#. The simulator provides users with a simple experience of controlling and launching ICBMs.
+<p align="center">
+   
+<img width="300" src="https://github.com/chris-jeune/ICBM-SIM/assets/145855247/268e9b8b-9ff7-4899-b6c6-f5ebe619ce8f">
 
-### Features:
-- **Realistic Simulation:** Experience the realistic behavior of an ICBM. While we were not able to implement all the physics, it is a close representation of reality.
-- **Control Interface:** Interact with a user-friendly control interface designed for easy navigation and operation of the ICBM system.
-- **Real-time data:** Keep track of the real-time data of the ICBM, including the velocity, the altitude, and the fuel.
-- **Different locations:** Launch your missile from different locations with a different background.
-- **Speed-up simulation:** You can increase the speed of the simulation as real-life scenarios are especially long.
+</p>
+
+Welcome to the ICBM Simulator repository! This project offers a 2D simulation of the Minuteman 3 Intercontinental Ballistic Missile (ICBM) system developed using Unity and C#. The simulator provides users with an engaging experience of controlling and launching ICBMs.
+(Note: The project was entirely made in french)
+
+### Key Features:
+- **Realistic Simulation:** Experience close-to-reality behavior of an ICBM, offering a realistic simulation environment.
+- **User-Friendly Interface:** Navigate and operate the ICBM system effortlessly with a user-friendly French control interface.
+- **Real-Time Data:** Monitor velocity, altitude, and fuel levels in real-time throughout the simulation.
+- **Diverse Launch Locations:** Launch missiles from various locations, each with a unique background setting.
+- **Simulation Speed Control:** Speed up the simulation to condense real-life scenarios.
+
+<p align="center">
+
+<img  src="https://github.com/chris-jeune/ICBM-SIM/assets/145855247/1e8760f7-0333-4f66-a843-011376c4cd81"> 
+
+</p>
 
 ### Collaborator:
-This project was developed in collaboration with Yan Hui—special thanks to Yan Hui for her contributions to the design and development of the ICBM Simulator.
+This project was collaboratively developed with Yan Hui. Special thanks to Yan Hui for her valuable contributions to the graphics design.
 
 ### Getting Started:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
    git clone https://github.com/chris-jeune/ICBM-SIM.git
    ```
-2. **Install Unity:** Ensure that you have Unity installed on your system. The project is compatible with Unity versions [Version Range].
+2. **Install Unity:** Ensure Unity is installed on your system.
 3. **Open the Project:** Open the project in Unity to access the ICBM Simulator environment and scripts.
-4. **Explore the Simulation:** Navigate through the 2D simulator environment to familiarize yourself with the controls and interface.
-5. **Launch an ICBM:** Follow the instructions provided within the 2D simulator to launch an ICBM and observe its trajectory.
-6. **Customize Scenarios:** Experiment with scenario customization options to create unique simulations with different launch conditions and targets in the 2D environment.
+4. **Explore the Simulation:** Familiarize yourself with the controls and interface within the 2D simulator environment.
+5. **Launch an ICBM:** Follow the instructions provided within the simulator to launch an ICBM and observe its trajectory.
+6. **Customize Scenarios:** Experiment with scenario customization options to create unique simulations with different launch conditions and targets.
 
 ### Requirements:
 - Unity Engine
 - C# Development Environment
 
 ### Contributions:
-Contributions to this project are welcome! If you'd like to contribute, please fork the repository, make changes, and submit a pull request.
+Contributions and feedback are welcome! To contribute, fork the repository, make changes, and submit a pull request. There are numerous areas for enhancement, including graphics, visual effects, missile behavior, and physics.
 
 ### Issues and Support:
-If you encounter any issues while using the 2D simulator or have any questions, please feel free to open an issue on GitHub.
+Encountering issues or have questions? Open an issue on GitHub for assistance.
 
 ### Acknowledgements:
-This ICBM Simulator project was developed by me @chris-jeune and Yan Hui as part of a school project.
+This ICBM Simulator project was developed by @chris-jeune and Yan Hui as part of a school project. Free assets were utilized in the development process.
 
 ### Future Improvements:
-- **Enhanced Graphics:** Incorporate high-quality 2D graphics and visual effects to improve the overall realism of the simulator.
-- **Additional Features:** Implement additional features such as multiplayer mode, advanced scenario customization options, and real-time data tracking in the 2D environment.
-- **Bug Fixes and Optimization:** Address any existing issues, optimize performance, and enhance the overall user experience in the 2D simulation.
-- **Community Feedback:** Gather feedback from users and the development community to identify areas for improvement and prioritize future updates.
+- **Enhanced Graphics:** Integrate high-quality 2D graphics and visual effects for improved realism.
+- **Advanced Realism:** Enhance physics and realism by incorporating features like wind, Earth rotation, launch sequences, boosters, and part detachment.
+- **Bug Fixes and Optimization:** Address existing issues, optimize performance, and improve user experience.
+- **Community Feedback:** Gather feedback to identify areas for improvement and prioritize updates.
 
 ### Enjoy the 2D Simulation!
-Thank you for exploring the ICBM Simulator repository. We hope you enjoy the immersive experience of controlling and launching ICBMs in a 2D environment. If you find the simulator engaging, don't forget to leave a star ⭐️ on the repository.
+Thank you for exploring the ICBM Simulator repository. Enjoy the immersive experience of controlling and launching ICBMs in a 2D environment. If you find the simulator engaging, don't forget to leave a star ⭐️ on the repository.
