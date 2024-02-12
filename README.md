@@ -23,7 +23,7 @@ Welcome to the ICBM Simulator repository! This project offers a 2D simulation of
 </p>
 
 ### Collaborator:
-This project was collaboratively developed with Yan Hui. Special thanks to Yan Hui for her valuable contributions to the graphics design.
+Special thanks to Yanhui Zhao for her valuable contributions to the graphics design.
 
 ### Getting Started:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
@@ -47,7 +47,7 @@ Contributions and feedback are welcome! To contribute, fork the repository, make
 Encountering issues or have questions? Open an issue on GitHub for assistance.
 
 ### Acknowledgements:
-This ICBM Simulator project was developed by @chris-jeune and Yan Hui as part of a school project. Free assets were utilized in the development process.
+This ICBM Simulator project was developed by me @chris-jeune and a classmate as part of a school project. Free assets were utilized in the development process.
 
 ### Future Improvements:
 - **Enhanced Graphics:** Integrate high-quality 2D graphics and visual effects for improved realism.
