@@ -150,6 +150,7 @@ public class Mouvements : MonoBehaviour
             rayonMissile = rayonMissile2;
             dryMass = 1392f;
             rb.mass = carburant + dryMass;
+	    // For debug purposes
             Debug.Log("poussee:" + thrustForce);
             Debug.Log("Rayon:" + rayonMissile);
             Debug.Log("Drymass" + dryMass);
@@ -160,6 +161,7 @@ public class Mouvements : MonoBehaviour
             rayonMissile = rayonMissile3;
             dryMass = 727.5f;
             rb.mass = carburant + dryMass;
+	    // For debug purposes
             Debug.Log("poussee:" + thrustForce);
             Debug.Log("Rayon:" + rayonMissile);
             Debug.Log("Drymass" + dryMass);
