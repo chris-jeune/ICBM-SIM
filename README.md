@@ -23,7 +23,7 @@ Welcome to the ICBM Simulator repository! This project offers a 2D simulation of
 </p>
 
 ### Collaborator:
-Special thanks to Yanhui Zhao for her valuable contributions to the graphics design.
+Special thanks to Yanhui Zhao for her contributions to the graphics design.
 
 ### Getting Started:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
@@ -42,18 +42,6 @@ Special thanks to Yanhui Zhao for her valuable contributions to the graphics des
 
 ### Contributions:
 Contributions and feedback are welcome! To contribute, fork the repository, make changes, and submit a pull request. There are numerous areas for enhancement, including graphics, visual effects, missile behavior, and physics.
-
-### Issues and Support:
-Encountering issues or have questions? Open an issue on GitHub for assistance.
-
-### Acknowledgements:
-This ICBM Simulator project was developed by me @chris-jeune and a classmate as part of a school project. Free assets were utilized in the development process.
-
-### Future Improvements:
-- **Enhanced Graphics:** Integrate high-quality 2D graphics and visual effects for improved realism.
-- **Advanced Realism:** Enhance physics and realism by incorporating features like wind, Earth rotation, launch sequences, boosters, and part detachment.
-- **Bug Fixes and Optimization:** Address existing issues, optimize performance, and improve user experience.
-- **Community Feedback:** Gather feedback to identify areas for improvement and prioritize updates.
 
 ### Enjoy the 2D Simulation!
 Thank you for exploring the ICBM Simulator repository. Enjoy the immersive experience of controlling and launching ICBMs in a 2D environment. If you find the simulator engaging, don't forget to leave a star ⭐️ on the repository.
