@@ -1,0 +1,28 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Build debug output that must not ship
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# IDE files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Plastic SCM workspace
+.plastic/
+
+# OS files
+.DS_Store
+Thumbs.db
